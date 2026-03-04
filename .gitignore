@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 # macOS
 .DS_Store
+
+# Exception: Include docs folder for GitHub Pages
+!docs/
+!docs/**
